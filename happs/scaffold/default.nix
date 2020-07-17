@@ -16,7 +16,7 @@ let
       fi
     }
     STARTING_DIRECTORY=$(pwd -P)
-    curl -L -o happ-scaffold.tar.gz https://github.com/holochain/RAD-Tools-Phase-2/archive/master.tar.gz
+    curl -L -o happ-scaffold.tar.gz https://github.com/pdaoust/RAD-Tools-Phase-2/archive/update-holonix-v0.0.80.tar.gz
     mkdir "''${2:-"My-New-App"}"
     tar -zxvf happ-scaffold.tar.gz --strip-components=1 -C ./"''${2:-"My-New-App"}"
     rm happ-scaffold.tar.gz
