@@ -13,7 +13,7 @@ l
 #### RSM binaries for Linux
 * holochain: 0.0.1
 * hc: 0.1.0
-* lair-keystore: 0.0.1-alpha.10
+* lair-keystore: 0.0.1-alpha.11
 * kitsune-p2p-proxy: 0.0.1
 
 Binaries are available for Darwin and Linux on `x86_64-linux` and `arm64`.
