@@ -43,7 +43,7 @@ echo "<your publishing script here>"
    #       the sha here changes (the sha is the cache key for downloads)
    # note: to get a new sha, get nix to try and download a bad sha
    #       it will complain and tell you the right sha
-   sha256 = "0z66j5sc49briaw2b2fyi8gml8gdkaaafpi18fidn7sd9nyavk92";
+   sha256 = "1x7gzndv8qax3wwv7imki9rrzm0l22qhf49bdkjjn6nb430fmlnk";
 
    # the github owner of the holonix repo
    owner = "Holo-Host";
